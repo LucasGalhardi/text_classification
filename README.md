@@ -18,6 +18,7 @@ Que instalará as dependências padrões e mais as utilizadas: boostrap, react-b
 Já o projeto Django tem apenas as suas bibliotecas como dependências, podendo ser instalado com o gerenciador de pacotes pip:
 - django
 - djangorestframework
+- django-cors-headers
 
 ### Modelo
 Inclui as seguintes bibliotecas:
